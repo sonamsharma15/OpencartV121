@@ -1,0 +1,50 @@
+20:25:10.526 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:25:10.545 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:25:10.545 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:25:10.555 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+20:25:10.555 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:25:10.556 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:25:10.556 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:25:10.557 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:25:10.587 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] -1422202400
+20:25:10.587 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:25:10.588 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:25:10.588 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:25:10.589 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:25:10.595 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+20:25:10.595 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:25:10.595 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:25:10.596 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:25:10.596 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:25:10.621 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3fb6cf60] 1069718706
+20:25:10.622 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@dfddc9a] -1065337126
+20:25:10.622 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:25:10.634 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:25:10.634 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:25:10.635 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:25:10.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sonam Sharma\SDET_Eclipse_workspace\OpenCartV121\master.xml
+
+20:31:19.270 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@3fb6cf60] 1069718706
+20:31:19.270 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@dfddc9a] -1065337126
+20:31:19.271 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:31:19.271 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:31:19.272 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:31:19.273 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:34:32.633 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Sonam Sharma\SDET_Eclipse_workspace\OpenCartV121\master.xml"
+20:34:34.016 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] -1422202400
+20:34:34.020 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:34:34.031 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:34:34.032 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:34:34.033 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:34:34.042 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+20:34:34.043 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:34:34.043 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:34:34.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:34:34.044 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:34:34.072 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] -1422202400
+20:34:34.072 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+20:34:34.073 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:34:34.073 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:34:34.074 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:34:34.084 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191

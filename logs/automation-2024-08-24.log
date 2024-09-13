@@ -1,0 +1,51 @@
+23:22:27.039 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:22:27.057 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:22:27.058 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:22:27.096 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@56a4479a] 1454380268
+23:22:27.097 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:22:27.098 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:22:27.099 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:22:27.100 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:22:27.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sonam Sharma\SDET_Eclipse_workspace\OpenCartV121\master.xml
+
+23:22:47.025 [main] INFO  testCases.TC001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest *********
+23:22:48.552 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:22:50.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:22:57.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
+23:22:57.694 [main] INFO  testCases.TC001_AccountRegistrationTest - *******finished TC001_AccountRegistrationTest *********
+23:23:42.153 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Sonam Sharma\SDET_Eclipse_workspace\OpenCartV121\master.xml"
+23:23:43.609 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] -1422202400
+23:23:43.611 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:23:43.624 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:23:43.624 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:23:43.625 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:23:43.633 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+23:23:43.633 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:23:43.634 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:23:43.634 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:23:43.634 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:23:43.660 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.setUp(java.lang.String,java.lang.String)[pri:0, instance:null] -1422202400
+23:23:43.661 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:23:43.662 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:23:43.662 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:23:43.663 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:23:43.675 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+23:23:43.675 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:23:43.676 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:23:43.677 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:23:43.677 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:23:43.761 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@20a8a64e] 548696992
+23:23:43.762 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002_LoginTest.verify_login()[pri:0, instance:testCases.TC002_LoginTest@4504d271] -142134095
+23:23:43.763 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+23:23:43.802 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+23:23:43.802 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+23:23:43.803 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+23:23:43.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Sonam Sharma\SDET_Eclipse_workspace\OpenCartV121\master.xml
+
+23:24:01.364 [main] INFO  testCases.TC001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest *********
+23:24:02.012 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+23:24:02.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+23:24:07.190 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message
+23:24:07.369 [main] INFO  testCases.TC001_AccountRegistrationTest - *******finished TC001_AccountRegistrationTest *********

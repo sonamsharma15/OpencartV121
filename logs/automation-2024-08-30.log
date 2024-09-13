@@ -1,0 +1,11 @@
+21:43:55.156 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+21:43:55.878 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@bf1ec20] 201177458
+21:43:55.878 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+21:43:55.879 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+21:43:55.879 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+21:43:55.883 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+21:44:10.106 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest *********
+21:44:11.710 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+21:44:14.707 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+21:44:31.368 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *******starting TC001_AccountRegistrationTest *********
+21:44:34.736 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
